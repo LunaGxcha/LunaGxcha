@@ -1,5 +1,8 @@
 ## Hello, I'm Kaiden 👋
 
+I work with Bitamo Studio on Game Jams and trying to progress in my coding career. 
+I am trying to figure out what I truly want to work on for code, I tried out HTML and CSS and it just isn't my thing.
+Let's see what's in my path next!
 <!--
 **LunaGxcha/LunaGxcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
