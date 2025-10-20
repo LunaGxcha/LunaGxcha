@@ -1,8 +1,10 @@
-## Hello, I'm Kaiden 👋
+## Hello, I'm Kaiden/Mariana 👋
 
-I work with Bitamo Studio on Game Jams and trying to progress in my coding career. 
-I am trying to figure out what I truly want to work on for code, I tried out HTML and CSS and it just isn't my thing.
-Let's see what's in my path next!
+I work with Bitamo Studio on Game Jams and am trying to progress in my coding career. 
+I am aiming towards becoming a Data Scientist. I specialize in backend programming and have tinkered with frontend.
+I am currently learning Java in AP Computer Science A at Cumberland High School.
+I have learned HTML, CSS, Python, C#, C++, JavaScript, and SQL.
+My repos are old on here, but I intend to review these projects and hopefully apply what I have recently learned to remake these projects.
 <!--
 **LunaGxcha/LunaGxcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
