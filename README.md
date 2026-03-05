@@ -13,10 +13,10 @@ I'm a high school senior at **Cumberland High School** who's absolutely hooked o
 **Current Mission:** Leveling up my skills to break into the Data Science world 📈
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaGxcha&show_icons=true)
+![Stats](https://github-readme-stats-lunagxcha.vercel.app/api?username=LunaGxcha&show_icons=true)
 
 ## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaGxcha&layout=compact)
+![Top Langs](https://github-readme-stats-lunagxcha.vercel.app/api/top-langs/?username=LunaGxcha&layout=compact)
 
 ## 💼 What I Do
 
