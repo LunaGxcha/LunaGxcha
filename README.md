@@ -12,6 +12,15 @@ I'm a high school senior at **Cumberland High School** who's absolutely hooked o
 
 **Current Mission:** Leveling up my skills to break into the Data Science world 📈
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LunaGxcha&show_icons=true&theme=tokyonight)
+
+## 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LunaGxcha&layout=pie&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=LunaGxcha&theme=tokyonight)
+
 ## 💼 What I Do
 
 🎯 **Primary Focus:** Backend development (where the *real* magic happens)  
@@ -25,8 +34,6 @@ Languages I speak (to computers):
 ```
 HTML  •  CSS  •  JavaScript  •  Python  •  C#  •  C++  •  Java  •  SQL
 ```
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LunaGxcha&layout=pie)
 
 **Currently Grinding:** Java in AP CS A ☕
 
