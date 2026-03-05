@@ -44,7 +44,7 @@ So... my repos on here are kinda ancient (we don't talk about old code 😅). Bu
 
 ## 🎮 Bitamo Studio
 
-Proud member of Bitamo Studio where we turn caffeine and chaos into playable games during Game Jams! Check out our work and see what happens when deadlines meet creativity 🎲
+Proud assistant of Bitamo Studio where we turn caffeine and chaos into playable games during Game Jams! Check out our work and see what happens when deadlines meet creativity 🎲
 
 ## 💬 Let's Connect!
 
