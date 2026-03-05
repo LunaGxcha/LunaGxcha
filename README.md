@@ -26,6 +26,8 @@ Languages I speak (to computers):
 HTML  •  CSS  •  JavaScript  •  Python  •  C#  •  C++  •  Java  •  SQL
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaGxcha)](https://github.com/anuraghazra/github-readme-stats)
+
 **Currently Grinding:** Java in AP CS A ☕
 
 ## 🔄 The Glow-Up
