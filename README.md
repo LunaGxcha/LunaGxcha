@@ -8,7 +8,7 @@ My repos are old on here, but I intend to review these projects and hopefully ap
 
 with:
   card: top-langs
-  options: LunaGxcha=octocat&layout=compact&langs_count=6
+  options: username=octocat&layout=compact&langs_count=6
   token: ${{ secrets.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}}
 <!--
 **LunaGxcha/LunaGxcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
